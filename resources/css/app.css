@@ -1,0 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+@import "bootstrap";
+@import "toastr";
+@import "./main.scss";
